@@ -18,9 +18,31 @@ body {
 }
 section {
   background-color: rgb(224, 142, 142);
-  padding: 3rem;
+  min-width: 70%;
+  padding: 2rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  border-radius: 10px;
+  height: 80%;
+}
+h2 {
+  font-size: 1rem;
+  color: blueviolet;
+}
+h3 {
+  font-size: 1rem;
+  padding: 1rem 0;
+}
+.links > a {
+  text-decoration: none;
+  display: block;
+  color: black;
+  background-color: pink;
+  margin: 0.6rem;
+  text-align: center;
+  width: 100%;
+  border-radius: 5px;
+  padding: 4% 10%;
 }
