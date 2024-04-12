@@ -9,15 +9,18 @@ img {
   border-radius: 50%;
 }
 body {
+  background-color: rgb(56, 45, 45);
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 100dvw;
-  background-color: rgb(56, 45, 45);
-  height: 100%;
+  height: 100vh;
 }
 section {
   background-color: rgb(224, 142, 142);
   padding: 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
