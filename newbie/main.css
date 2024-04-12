@@ -4,8 +4,8 @@
   box-sizing: border-box;
 }
 img {
-  height: 10rem;
-  width: 10rem;
+  height: 8rem;
+  width: 6rem;
   border-radius: 50%;
 }
 body {
@@ -18,7 +18,7 @@ body {
 }
 section {
   background-color: rgb(224, 142, 142);
-  min-width: 70%;
+  min-width: 50%;
   padding: 2rem;
   display: flex;
   flex-direction: column;
@@ -40,9 +40,9 @@ h3 {
   display: block;
   color: black;
   background-color: pink;
-  margin: 0.6rem;
+  margin: 0.5rem;
   text-align: center;
-  width: 100%;
+
   border-radius: 5px;
-  padding: 4% 10%;
+  padding: 0.5rem 5rem;
 }
