@@ -30,7 +30,7 @@ section {
 }
 h2 {
   font-size: 1rem;
-  color: blueviolet;
+  color: rgba(137, 43, 226, 0.735);
 }
 h3 {
   font-size: 1rem;
@@ -48,6 +48,6 @@ h3 {
   font-weight: 900;
 }
 .links > a:hover {
-  background-color: rgb(50, 8, 15);
+  /* background-color: rgb(50, 8, 15); */
   color: rgb(196, 59, 231);
 }
